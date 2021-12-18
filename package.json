@@ -1,0 +1,19 @@
+{
+  "name": "matrix-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.4",
+    "serialport": "^9.2.8"
+  }
+}
